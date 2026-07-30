@@ -3,8 +3,9 @@
 Code accompanying:
 
 ExSEnt: Extrema-Segmented Entropy Analysis of Time Series  
-Sara Kamali, Fabiano Baroni, Pablo Varona  
-DOI: https://doi.org/10.48550/arXiv.2509.07751
+S. Kamali, F. Baroni, P. Varona  
+DOI: [https://doi.org/10.48550/arXiv.2509.07751
+](https://doi.org/10.1007/s11071-026-12858-1)
 
 This repository implements ExSEnt, a set of entropy-based metrics computed on extrema-segmented time series. ExSEnt provides separate measures of (i) time irregularity, (ii) amplitude irregularity, and (iii) time–amplitude coupling irregularity, enabling a more granular characterization of dynamical structure than single-entropy summaries.
 
@@ -53,7 +54,9 @@ If you use this code, please cite:
 
 ExSEnt: Extrema-Segmented Entropy Analysis of Time Series  
 S. Kamali, F. Baroni, P. Varona  
-https://doi.org/10.48550/arXiv.2509.07751
+Nonlinear Dynamics 114, 980 (2026)
+DOI: [https://doi.org/10.48550/arXiv.2509.07751
+](https://doi.org/10.1007/s11071-026-12858-1)
 
 ## Rights
 
